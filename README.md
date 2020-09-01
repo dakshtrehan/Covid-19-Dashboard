@@ -13,13 +13,13 @@ In the current scenario, there is a widespread of coronavirus in the entire worl
 To take another step towards challenges, we have also introduced prediction rate, where, one can easily predict recovery rate and prediction rate for any day in future.
 
 
-Services Offered By Covid Doctor
+## Services Offered:
 
-1. Live Covid 19 Stats - People can monitor the live stats of Coronavirus Confirmed, Active, Recovered cases, etc. in one place.
+1. **Live Covid 19 Stats** - People can monitor the live stats of Coronavirus Confirmed, Active, Recovered cases, etc. in one place.
 
-2. Prediction rate - To ease the situation, one can easily predict recovery rate as well as infected rate for future course of time.
+2. **Prediction rate** - To ease the situation, one can easily predict recovery rate as well as infected rate for future course of time.
 
-3. Real-Time Self Assessment Chatbot - People can do take their self-assessment checkup by answering the few questions and based on that answers, the user will get the advice by the chatbot such as to quarantine or visit the hospital or precautions if the user is healthy. This will help people in ensuring their safety.
+3. **Real-Time Self Assessment Chatbot** - People can do take their self-assessment checkup by answering the few questions and based on that answers, the user will get the advice by the chatbot such as to quarantine or visit the hospital or precautions if the user is healthy. This will help people in ensuring their safety.
 
 Check it Out : https://covid-infection-dashboard.herokuapp.com/
 
@@ -27,10 +27,11 @@ Check it Out : https://covid-infection-dashboard.herokuapp.com/
 ![](https://github.com/priyansh18/Covid-19-Dashboard/blob/master/images/covid-peek.JPG)
 
 ## Tech Stack
-Python 3
-Open CV for image detection
-Tensorflow and Keras for deep learning
-Machine learning for pulse scanning models
-Flask for web deployment
-HTML and CSS for web frontend
+* Python 3
+* Python libraries: Numpy, Pandas, Matplotlib for Data Analysis
+* Machine learning for prediction
+* Django for web deployment
+
+## Designed by: Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
+
 
