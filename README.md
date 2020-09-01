@@ -1,6 +1,8 @@
-# Covid-19-Dashboard
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="215">
 
-This project is covid-19 real time stats demonstrator.
+# Covid-19 LIVE Dashboard
+
+This project is covid-19 real time stats demonstrator along with customer awareness and interactive real-time stats.
 
 ## Key Features
 * Live COVID stats
@@ -24,15 +26,15 @@ To take another step towards challenges, we have also introduced prediction rate
 Check it Out : https://covid-infection-dashboard.herokuapp.com/
 
 ## Peek : 
-#### Overview
+### Overview
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(103).png)
-#### Country-wise stats interactive representation
+### Country-wise stats interactive representation
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(98).png)
-#### Country-wise Graphical stats 
+### Country-wise Graphical stats 
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(97).png)<br>
-#### Option to download interactive country-wise stats charts in various formats
+### Option to download interactive country-wise stats charts in various formats
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(100).png) <br>
-#### Last days stats along with option to download them in various formats
+### Last days stats along with option to download them in various formats
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(101).png)
 
 ## Tech Stack
@@ -46,6 +48,6 @@ Check it Out : https://covid-infection-dashboard.herokuapp.com/
 * Chatbot addition
 * Better interface
 
-## Designed by: Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
+## Designed with ❤ : Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
 
 
