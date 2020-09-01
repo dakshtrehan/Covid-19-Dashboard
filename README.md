@@ -48,6 +48,6 @@ Check it Out : https://covid-infection-dashboard.herokuapp.com/
 * Chatbot addition
 * Better interface
 
-## Designed with ❤ : Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
+### Designed with ❤ by Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
 
 
