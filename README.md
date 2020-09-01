@@ -31,6 +31,7 @@ Check it Out : https://covid-infection-dashboard.herokuapp.com/
 * Python libraries: Numpy, Pandas, Matplotlib for Data Analysis
 * Machine learning for prediction
 * Django for web deployment
+* Javascript for dynamic structure
 
 ## Designed by: Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
 
