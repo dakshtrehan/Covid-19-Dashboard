@@ -24,7 +24,11 @@ To take another step towards challenges, we have also introduced prediction rate
 Check it Out : https://covid-infection-dashboard.herokuapp.com/
 
 ## Peek : 
-![](https://github.com/priyansh18/Covid-19-Dashboard/blob/master/images/covid-peek.JPG)
+![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(103).png)
+![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(98).png)
+![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(97).png)<br>
+![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(100).png) <br>
+![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(101).png)
 
 ## Tech Stack
 * Python 3
@@ -32,6 +36,10 @@ Check it Out : https://covid-infection-dashboard.herokuapp.com/
 * Machine learning for prediction
 * Django for web deployment
 * Javascript for dynamic structure
+
+## Future scope
+* Chatbot addition
+* Better interface
 
 ## Designed by: Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
 
