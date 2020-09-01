@@ -24,10 +24,15 @@ To take another step towards challenges, we have also introduced prediction rate
 Check it Out : https://covid-infection-dashboard.herokuapp.com/
 
 ## Peek : 
+#### Overview
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(103).png)
+#### Country-wise stats interactive representation
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(98).png)
+#### Country-wise Graphical stats 
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(97).png)<br>
+#### Option to download interactive country-wise stats charts in various formats
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(100).png) <br>
+#### Last days stats along with option to download them in various formats
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(101).png)
 
 ## Tech Stack
