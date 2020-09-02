@@ -4,6 +4,8 @@
 
 This project is covid-19 real time stats demonstrator along with customer awareness and interactive real-time stats.
 
+![Daksh Trehan] (www.dakshtrehan.com)
+
 ## Key Features
 * Live COVID stats
 * Recovery Rate prediction
