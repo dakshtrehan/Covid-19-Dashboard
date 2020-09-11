@@ -36,6 +36,8 @@ Check it Out : https://covid-infection-dashboard.herokuapp.com/
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(97).png)<br>
 ### Option to download interactive country-wise stats charts in various formats
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(100).png) <br>
+### Daily cummulative data vs Rolling Mean for 4 days, country-wise
+![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(108).png)<br>
 ### Last days stats along with option to download them in various formats
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(101).png)
 
